@@ -1,0 +1,14 @@
+CREATE DATABASE Atharva;
+SHOW DATABASES;
+create table Employee(Id Int,Name varchar(20),Designation Varchar(30),Salary int);
+insert into Employee(Id,Name,Designation,Salary) values(1,"Atharva","Shriram",123);
+insert into Employee(Id,Name,Designation,Salary) values(2,"Aryan","Shriram",2134);
+insert into Employee(Id,Name,Designation,Salary) values(3,"isdhvdas"," adbjksad",3214567);
+insert into Employee(Id,Name,Designation,Salary) values(7,"isdhvdasdbcs"," adbjksadsdad",123456456);
+Select * from Employee;
+Select * from Employee where Id>=2 && Id <=5;
+Select * from Employee ORDER By Salary ASC;
+Update Employee Set Salary = 48993 where Id =1;
+Select * from Employee;
+Delete from Employee where Name = "xgfchgvjhbjn";
+Select * from Employee;

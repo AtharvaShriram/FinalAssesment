@@ -1,0 +1,27 @@
+{
+"login":
+{
+"email2":"admin@gmail.com",
+"email":"mainhub@gmail.com",
+"password" : "123456"
+},
+"pic":
+{
+"valid":"C:\\Users\\AS75023\\Pictures\\Screenshots",
+"invalid" :""
+},
+
+"Question5" :
+{
+"codevalid":"sadfg",
+"codeinvalid":"@!#$%",
+"codenumber":"1234",
+"codespecialcharacter":"@",
+"codelesschar":"a",
+"codeblank" : "",
+"codespace":"   ",
+"codealphanumeric": "atharva123"
+}
+
+
+}

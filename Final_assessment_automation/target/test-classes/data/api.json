@@ -1,0 +1,10 @@
+{
+    "Valid": {
+        "username": "kumarkharare@gmail.com",
+        "password": "123456"
+    },
+    "invalid":{
+        "username": "kumarkhasaddarare@gmail.com",
+        "password": "12345344356"
+    }
+    }
